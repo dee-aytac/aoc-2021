@@ -2,7 +2,6 @@ import heapq
 grid = []
 for line in open('input.txt'):
     row = [int(char) for char in line.strip()]
-    print(row)
     grid.append(row) 
 
 rows = len(grid)
@@ -15,7 +14,7 @@ heapq.heapify(que)
 visited = set()
 path = dict()
 while que:
-    row, col, distance = heapq.heappop(que)
+    distance, row, col = heapq.heappop(que)
     if (row, col) in visited:
         continue
     visited.add((row, col))
@@ -29,5 +28,5 @@ while que:
         q2, r2 = divmod(cc, len(grid[0]))
         distance_2 = (((grid[r1][r2] + q1 + q2) - 1) % 9) + 1
         real_distance = distance + distance_2
-        heapq.heappush(que, (rr, cc, real_distance))
-print(path)
+        heapq.heappush(que, (real_distance, rr, cc))
+print(path[(499, 499)])
