@@ -13,8 +13,9 @@ def solution(content):
     idx = 0
     keys = collections.defaultdict(list)
     while True:
-        hash_input =  content + str(idx)
-        hash_result = hashlib.md5(hash_input.encode()).hexdigest()
+        hash_result = content + str(idx)
+        for _ in range(0, 2016 + 1):
+            hash_result = hashlib.md5(hash_result.encode()).hexdigest()
 
         get_five = check_match(hash_result, 5)
         if get_five != None:
