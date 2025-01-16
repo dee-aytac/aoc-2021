@@ -1,3 +1,4 @@
+import collections
 mapping = dict()
 for idx, line in enumerate(open('input.txt', 'r')):
     if idx == 0:
@@ -18,7 +19,6 @@ for _ in range(step):
             new_text +=  mapping[char] + initial_text[idx + 1]
     initial_text = new_text
 print(initial_text)
-import collections
 most_common = collections.Counter(initial_text).most_common(1)[0][1]
 least_common = collections.Counter(initial_text).most_common()[:-2:-1][0][1]
 print(most_common - least_common)
