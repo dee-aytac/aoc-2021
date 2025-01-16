@@ -1,0 +1,4213 @@
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 67 {'F'}
+currently visiting {'M': 72, 'O': 74, 'X': 83}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 68 {'F'}
+currently visiting {'M': 71, 'O': 73, 'X': 82}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 69 {'F'}
+currently visiting {'M': 70, 'O': 72, 'X': 81}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 70 {'F'}
+currently visiting {'M': 69, 'O': 71, 'X': 80}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 71 {'F'}
+currently visiting {'M': 68, 'O': 70, 'X': 79}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 72 {'F'}
+currently visiting {'M': 67, 'O': 69, 'X': 78}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 73 {'F'}
+currently visiting {'M': 66, 'O': 68, 'X': 77}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 74 {'F'}
+currently visiting {'M': 65, 'O': 67, 'X': 76}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 75 {'F'}
+currently visiting {'M': 64, 'O': 66, 'X': 75}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 76 {'F'}
+currently visiting {'M': 63, 'O': 65, 'X': 74}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 77 {'F'}
+currently visiting {'M': 62, 'O': 64, 'X': 73}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 78 {'F'}
+currently visiting {'M': 61, 'O': 63, 'X': 72}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 79 {'F'}
+currently visiting {'M': 60, 'O': 62, 'X': 71}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 80 {'F'}
+currently visiting {'M': 59, 'O': 61, 'X': 70}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 81 {'F'}
+currently visiting {'M': 58, 'O': 60, 'X': 69}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 82 {'F'}
+currently visiting {'M': 57, 'O': 59, 'X': 68}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 83 {'F'}
+currently visiting {'M': 56, 'O': 58, 'X': 67}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 84 {'F'}
+currently visiting {'M': 55, 'O': 57, 'X': 66}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 85 {'F'}
+currently visiting {'M': 54, 'O': 56, 'X': 65}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 86 {'F'}
+currently visiting {'M': 53, 'O': 55, 'X': 64}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 87 {'F'}
+currently visiting {'M': 52, 'O': 54, 'X': 63}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 88 {'F'}
+currently visiting {'M': 51, 'O': 53, 'X': 62}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 89 {'F'}
+currently visiting {'M': 50, 'O': 52, 'X': 61}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 90 {'F'}
+currently visiting {'M': 49, 'O': 51, 'X': 60}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 91 {'F'}
+currently visiting {'M': 48, 'O': 50, 'X': 59}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 92 {'F'}
+currently visiting {'M': 47, 'O': 49, 'X': 58}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 93 {'F'}
+currently visiting {'M': 46, 'O': 48, 'X': 57}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 94 {'F'}
+currently visiting {'M': 45, 'O': 47, 'X': 56}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 95 {'F'}
+currently visiting {'M': 44, 'O': 46, 'X': 55}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 96 {'F'}
+currently visiting {'M': 43, 'O': 45, 'X': 54}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 97 {'F'}
+currently visiting {'M': 42, 'O': 44, 'X': 53}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 98 {'F'}
+currently visiting {'M': 41, 'O': 43, 'X': 52}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 99 {'F'}
+currently visiting {'M': 40, 'O': 42, 'X': 51}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 100 {'F'}
+currently visiting {'M': 39, 'O': 41, 'X': 50}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 101 {'F'}
+currently visiting {'M': 38, 'O': 40, 'X': 49}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 102 {'F'}
+currently visiting {'M': 37, 'O': 39, 'X': 48}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 103 {'F'}
+currently visiting {'M': 36, 'O': 38, 'X': 47}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 104 {'F'}
+currently visiting {'M': 35, 'O': 37, 'X': 46}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 105 {'F'}
+currently visiting {'M': 34, 'O': 36, 'X': 45}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 106 {'F'}
+currently visiting {'M': 33, 'O': 35, 'X': 44}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 107 {'F'}
+currently visiting {'M': 32, 'O': 34, 'X': 43}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 108 {'F'}
+currently visiting {'M': 31, 'O': 33, 'X': 42}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 109 {'F'}
+currently visiting {'M': 30, 'O': 32, 'X': 41}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 110 {'F'}
+currently visiting {'M': 29, 'O': 31, 'X': 40}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 111 {'F'}
+currently visiting {'M': 28, 'O': 30, 'X': 39}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 112 {'F'}
+currently visiting {'M': 27, 'O': 29, 'X': 38}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 113 {'F'}
+currently visiting {'M': 26, 'O': 28, 'X': 37}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 114 {'F'}
+currently visiting {'M': 25, 'O': 27, 'X': 36}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 115 {'F'}
+currently visiting {'M': 24, 'O': 26, 'X': 35}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 116 {'F'}
+currently visiting {'M': 23, 'O': 25, 'X': 34}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 117 {'F'}
+currently visiting {'M': 22, 'O': 24, 'X': 33}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 118 {'F'}
+currently visiting {'M': 21, 'O': 23, 'X': 32}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 119 {'F'}
+currently visiting {'M': 20, 'O': 22, 'X': 31}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 120 {'F'}
+currently visiting {'M': 19, 'O': 21, 'X': 30}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 121 {'F'}
+currently visiting {'M': 18, 'O': 20, 'X': 29}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 122 {'F'}
+currently visiting {'M': 17, 'O': 19, 'X': 28}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 123 {'F'}
+currently visiting {'M': 16, 'O': 18, 'X': 27}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 124 {'F'}
+currently visiting {'M': 15, 'O': 17, 'X': 26}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 125 {'F'}
+currently visiting {'M': 14, 'O': 16, 'X': 25}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 126 {'F'}
+currently visiting {'M': 13, 'O': 15, 'X': 24}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 127 {'F'}
+currently visiting {'M': 12, 'O': 14, 'X': 23}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 128 {'F'}
+currently visiting {'M': 11, 'O': 13, 'X': 22}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 129 {'F'}
+currently visiting {'M': 10, 'O': 12, 'X': 21}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 130 {'F'}
+currently visiting {'M': 9, 'O': 11, 'X': 20}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 131 {'F'}
+currently visiting {'M': 8, 'O': 10, 'X': 19}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 132 {'F'}
+currently visiting {'M': 7, 'O': 9, 'X': 18}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 133 {'F'}
+currently visiting {'M': 6, 'O': 8, 'X': 17}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 134 {'F'}
+currently visiting {'M': 5, 'O': 7, 'X': 16}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 135 {'F'}
+currently visiting {'M': 4, 'O': 6, 'X': 15}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 136 {'F'}
+currently visiting {'M': 3, 'O': 5, 'X': 14}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 137 {'F'}
+currently visiting {'M': 2, 'O': 4, 'X': 13}
+**
+visitable: ['M', 'O', 'X']
+F workers: 2 sec: 138 {'F'}
+currently visiting {'M': 1, 'O': 3, 'X': 12}
+**
+visitable: ['M', 'O', 'X']
+FM workers: 3 sec: 139 {'F', 'M'}
+currently visiting {'O': 2, 'X': 11}
+**
+visitable: ['O', 'X']
+FM workers: 3 sec: 140 {'F', 'M'}
+currently visiting {'O': 1, 'X': 10}
+**
+visitable: ['O', 'X']
+FMO workers: 4 sec: 141 {'O', 'F', 'M'}
+currently visiting {'X': 9}
+**
+visitable: ['X']
+FMO workers: 4 sec: 142 {'O', 'F', 'M'}
+currently visiting {'X': 8}
+**
+visitable: ['X']
+FMO workers: 4 sec: 143 {'O', 'F', 'M'}
+currently visiting {'X': 7}
+**
+visitable: ['X']
+FMO workers: 4 sec: 144 {'O', 'F', 'M'}
+currently visiting {'X': 6}
+**
+visitable: ['X']
+FMO workers: 4 sec: 145 {'O', 'F', 'M'}
+currently visiting {'X': 5}
+**
+visitable: ['X']
+FMO workers: 4 sec: 146 {'O', 'F', 'M'}
+currently visiting {'X': 4}
+**
+visitable: ['X']
+FMO workers: 4 sec: 147 {'O', 'F', 'M'}
+currently visiting {'X': 3}
+**
+visitable: ['X']
+FMO workers: 4 sec: 148 {'O', 'F', 'M'}
+currently visiting {'X': 2}
+**
+visitable: ['X']
+FMO workers: 4 sec: 149 {'O', 'F', 'M'}
+currently visiting {'X': 1}
+**
+visitable: ['X']
+FMOX workers: 5 sec: 149 {'X', 'O', 'F', 'M'}
+currently visiting {}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 150 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 62, 'D': 63, 'J': 69, 'U': 80}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 151 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 61, 'D': 62, 'J': 68, 'U': 79}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 152 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 60, 'D': 61, 'J': 67, 'U': 78}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 153 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 59, 'D': 60, 'J': 66, 'U': 77}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 154 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 58, 'D': 59, 'J': 65, 'U': 76}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 155 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 57, 'D': 58, 'J': 64, 'U': 75}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 156 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 56, 'D': 57, 'J': 63, 'U': 74}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 157 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 55, 'D': 56, 'J': 62, 'U': 73}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 158 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 54, 'D': 55, 'J': 61, 'U': 72}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 159 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 53, 'D': 54, 'J': 60, 'U': 71}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 160 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 52, 'D': 53, 'J': 59, 'U': 70}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 161 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 51, 'D': 52, 'J': 58, 'U': 69}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 162 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 50, 'D': 51, 'J': 57, 'U': 68}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 163 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 49, 'D': 50, 'J': 56, 'U': 67}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 164 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 48, 'D': 49, 'J': 55, 'U': 66}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 165 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 47, 'D': 48, 'J': 54, 'U': 65}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 166 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 46, 'D': 47, 'J': 53, 'U': 64}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 167 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 45, 'D': 46, 'J': 52, 'U': 63}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 168 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 44, 'D': 45, 'J': 51, 'U': 62}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 169 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 43, 'D': 44, 'J': 50, 'U': 61}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 170 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 42, 'D': 43, 'J': 49, 'U': 60}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 171 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 41, 'D': 42, 'J': 48, 'U': 59}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 172 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 40, 'D': 41, 'J': 47, 'U': 58}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 173 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 39, 'D': 40, 'J': 46, 'U': 57}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 174 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 38, 'D': 39, 'J': 45, 'U': 56}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 175 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 37, 'D': 38, 'J': 44, 'U': 55}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 176 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 36, 'D': 37, 'J': 43, 'U': 54}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 177 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 35, 'D': 36, 'J': 42, 'U': 53}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 178 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 34, 'D': 35, 'J': 41, 'U': 52}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 179 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 33, 'D': 34, 'J': 40, 'U': 51}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 180 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 32, 'D': 33, 'J': 39, 'U': 50}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 181 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 31, 'D': 32, 'J': 38, 'U': 49}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 182 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 30, 'D': 31, 'J': 37, 'U': 48}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 183 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 29, 'D': 30, 'J': 36, 'U': 47}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 184 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 28, 'D': 29, 'J': 35, 'U': 46}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 185 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 27, 'D': 28, 'J': 34, 'U': 45}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 186 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 26, 'D': 27, 'J': 33, 'U': 44}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 187 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 25, 'D': 26, 'J': 32, 'U': 43}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 188 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 24, 'D': 25, 'J': 31, 'U': 42}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 189 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 23, 'D': 24, 'J': 30, 'U': 41}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 190 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 22, 'D': 23, 'J': 29, 'U': 40}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 191 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 21, 'D': 22, 'J': 28, 'U': 39}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 192 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 20, 'D': 21, 'J': 27, 'U': 38}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 193 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 19, 'D': 20, 'J': 26, 'U': 37}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 194 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 18, 'D': 19, 'J': 25, 'U': 36}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 195 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 17, 'D': 18, 'J': 24, 'U': 35}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 196 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 16, 'D': 17, 'J': 23, 'U': 34}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 197 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 15, 'D': 16, 'J': 22, 'U': 33}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 198 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 14, 'D': 15, 'J': 21, 'U': 32}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 199 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 13, 'D': 14, 'J': 20, 'U': 31}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 200 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 12, 'D': 13, 'J': 19, 'U': 30}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 201 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 11, 'D': 12, 'J': 18, 'U': 29}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 202 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 10, 'D': 11, 'J': 17, 'U': 28}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 203 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 9, 'D': 10, 'J': 16, 'U': 27}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 204 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 8, 'D': 9, 'J': 15, 'U': 26}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 205 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 7, 'D': 8, 'J': 14, 'U': 25}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 206 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 6, 'D': 7, 'J': 13, 'U': 24}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 207 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 5, 'D': 6, 'J': 12, 'U': 23}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 208 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 4, 'D': 5, 'J': 11, 'U': 22}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 209 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 3, 'D': 4, 'J': 10, 'U': 21}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 210 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 2, 'D': 3, 'J': 9, 'U': 20}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOX workers: 1 sec: 211 {'X', 'O', 'F', 'M'}
+currently visiting {'C': 1, 'D': 2, 'J': 8, 'U': 19}
+**
+visitable: ['C', 'D', 'J', 'U']
+FMOXC workers: 2 sec: 212 {'F', 'M', 'C', 'X', 'O'}
+currently visiting {'D': 1, 'J': 7, 'U': 18}
+**
+visitable: ['D', 'G', 'J', 'U']
+FMOXCD workers: 2 sec: 213 {'F', 'M', 'C', 'X', 'O', 'D'}
+currently visiting {'J': 6, 'U': 17, 'G': 66}
+**
+visitable: ['G', 'J', 'U']
+FMOXCD workers: 2 sec: 214 {'F', 'M', 'C', 'X', 'O', 'D'}
+currently visiting {'J': 5, 'U': 16, 'G': 65}
+**
+visitable: ['G', 'J', 'U']
+FMOXCD workers: 2 sec: 215 {'F', 'M', 'C', 'X', 'O', 'D'}
+currently visiting {'J': 4, 'U': 15, 'G': 64}
+**
+visitable: ['G', 'J', 'U']
+FMOXCD workers: 2 sec: 216 {'F', 'M', 'C', 'X', 'O', 'D'}
+currently visiting {'J': 3, 'U': 14, 'G': 63}
+**
+visitable: ['G', 'J', 'U']
+FMOXCD workers: 2 sec: 217 {'F', 'M', 'C', 'X', 'O', 'D'}
+currently visiting {'J': 2, 'U': 13, 'G': 62}
+**
+visitable: ['G', 'J', 'U']
+FMOXCD workers: 2 sec: 218 {'F', 'M', 'C', 'X', 'O', 'D'}
+currently visiting {'J': 1, 'U': 12, 'G': 61}
+**
+visitable: ['G', 'J', 'U']
+FMOXCDJ workers: 3 sec: 219 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 11, 'G': 60}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 220 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 10, 'G': 59}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 221 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 9, 'G': 58}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 222 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 8, 'G': 57}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 223 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 7, 'G': 56}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 224 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 6, 'G': 55}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 225 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 5, 'G': 54}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 226 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 4, 'G': 53}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 227 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 3, 'G': 52}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 228 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 2, 'G': 51}
+**
+visitable: ['G', 'U']
+FMOXCDJ workers: 3 sec: 229 {'F', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'U': 1, 'G': 50}
+**
+visitable: ['G', 'U']
+FMOXCDJU workers: 4 sec: 230 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 49}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 231 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 48, 'I': 68}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 232 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 47, 'I': 67}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 233 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 46, 'I': 66}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 234 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 45, 'I': 65}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 235 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 44, 'I': 64}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 236 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 43, 'I': 63}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 237 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 42, 'I': 62}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 238 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 41, 'I': 61}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 239 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 40, 'I': 60}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 240 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 39, 'I': 59}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 241 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 38, 'I': 58}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 242 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 37, 'I': 57}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 243 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 36, 'I': 56}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 244 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 35, 'I': 55}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 245 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 34, 'I': 54}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 246 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 33, 'I': 53}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 247 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 32, 'I': 52}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 248 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 31, 'I': 51}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 249 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 30, 'I': 50}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 250 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 29, 'I': 49}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 251 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 28, 'I': 48}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 252 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 27, 'I': 47}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 253 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 26, 'I': 46}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 254 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 25, 'I': 45}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 255 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 24, 'I': 44}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 256 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 23, 'I': 43}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 257 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 22, 'I': 42}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 258 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 21, 'I': 41}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 259 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 20, 'I': 40}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 260 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 19, 'I': 39}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 261 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 18, 'I': 38}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 262 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 17, 'I': 37}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 263 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 16, 'I': 36}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 264 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 15, 'I': 35}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 265 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 14, 'I': 34}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 266 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 13, 'I': 33}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 267 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 12, 'I': 32}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 268 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 11, 'I': 31}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 269 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 10, 'I': 30}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 270 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 9, 'I': 29}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 271 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 8, 'I': 28}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 272 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 7, 'I': 27}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 273 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 6, 'I': 26}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 274 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 5, 'I': 25}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 275 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 4, 'I': 24}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 276 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 3, 'I': 23}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 277 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 2, 'I': 22}
+**
+visitable: ['G', 'I']
+FMOXCDJU workers: 3 sec: 278 {'F', 'U', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'G': 1, 'I': 21}
+**
+visitable: ['G', 'I']
+FMOXCDJUG workers: 4 sec: 279 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 20}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 280 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 19, 'R': 77}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 281 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 18, 'R': 76}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 282 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 17, 'R': 75}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 283 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 16, 'R': 74}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 284 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 15, 'R': 73}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 285 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 14, 'R': 72}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 286 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 13, 'R': 71}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 287 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 12, 'R': 70}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 288 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 11, 'R': 69}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 289 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 10, 'R': 68}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 290 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 9, 'R': 67}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 291 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 8, 'R': 66}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 292 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 7, 'R': 65}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 293 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 6, 'R': 64}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 294 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 5, 'R': 63}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 295 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 4, 'R': 62}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 296 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 3, 'R': 61}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 297 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 2, 'R': 60}
+**
+visitable: ['I', 'R']
+FMOXCDJUG workers: 3 sec: 298 {'F', 'U', 'G', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'I': 1, 'R': 59}
+**
+visitable: ['I', 'R']
+FMOXCDJUGI workers: 4 sec: 299 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 58}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 300 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 57, 'H': 67}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 301 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 56, 'H': 66}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 302 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 55, 'H': 65}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 303 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 54, 'H': 64}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 304 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 53, 'H': 63}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 305 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 52, 'H': 62}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 306 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 51, 'H': 61}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 307 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 50, 'H': 60}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 308 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 49, 'H': 59}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 309 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 48, 'H': 58}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 310 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 47, 'H': 57}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 311 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 46, 'H': 56}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 312 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 45, 'H': 55}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 313 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 44, 'H': 54}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 314 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 43, 'H': 53}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 315 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 42, 'H': 52}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 316 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 41, 'H': 51}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 317 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 40, 'H': 50}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 318 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 39, 'H': 49}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 319 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 38, 'H': 48}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 320 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 37, 'H': 47}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 321 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 36, 'H': 46}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 322 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 35, 'H': 45}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 323 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 34, 'H': 44}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 324 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 33, 'H': 43}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 325 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 32, 'H': 42}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 326 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 31, 'H': 41}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 327 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 30, 'H': 40}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 328 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 29, 'H': 39}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 329 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 28, 'H': 38}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 330 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 27, 'H': 37}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 331 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 26, 'H': 36}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 332 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 25, 'H': 35}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 333 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 24, 'H': 34}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 334 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 23, 'H': 33}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 335 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 22, 'H': 32}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 336 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 21, 'H': 31}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 337 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 20, 'H': 30}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 338 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 19, 'H': 29}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 339 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 18, 'H': 28}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 340 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 17, 'H': 27}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 341 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 16, 'H': 26}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 342 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 15, 'H': 25}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 343 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 14, 'H': 24}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 344 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 13, 'H': 23}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 345 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 12, 'H': 22}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 346 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 11, 'H': 21}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 347 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 10, 'H': 20}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 348 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 9, 'H': 19}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 349 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 8, 'H': 18}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 350 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 7, 'H': 17}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 351 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 6, 'H': 16}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 352 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 5, 'H': 15}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 353 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 4, 'H': 14}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 354 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 3, 'H': 13}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 355 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 2, 'H': 12}
+**
+visitable: ['H', 'R']
+FMOXCDJUGI workers: 3 sec: 356 {'F', 'U', 'G', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'R': 1, 'H': 11}
+**
+visitable: ['H', 'R']
+FMOXCDJUGIR workers: 4 sec: 357 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 10}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIR workers: 2 sec: 358 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 9, 'A': 60, 'K': 70}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIR workers: 2 sec: 359 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 8, 'A': 59, 'K': 69}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIR workers: 2 sec: 360 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 7, 'A': 58, 'K': 68}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIR workers: 2 sec: 361 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 6, 'A': 57, 'K': 67}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIR workers: 2 sec: 362 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 5, 'A': 56, 'K': 66}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIR workers: 2 sec: 363 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 4, 'A': 55, 'K': 65}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIR workers: 2 sec: 364 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 3, 'A': 54, 'K': 64}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIR workers: 2 sec: 365 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 2, 'A': 53, 'K': 63}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIR workers: 2 sec: 366 {'F', 'U', 'G', 'R', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'H': 1, 'A': 52, 'K': 62}
+**
+visitable: ['A', 'H', 'K']
+FMOXCDJUGIRH workers: 3 sec: 367 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 51, 'K': 61}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 368 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 50, 'K': 60}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 369 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 49, 'K': 59}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 370 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 48, 'K': 58}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 371 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 47, 'K': 57}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 372 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 46, 'K': 56}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 373 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 45, 'K': 55}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 374 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 44, 'K': 54}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 375 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 43, 'K': 53}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 376 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 42, 'K': 52}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 377 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 41, 'K': 51}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 378 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 40, 'K': 50}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 379 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 39, 'K': 49}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 380 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 38, 'K': 48}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 381 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 37, 'K': 47}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 382 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 36, 'K': 46}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 383 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 35, 'K': 45}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 384 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 34, 'K': 44}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 385 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 33, 'K': 43}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 386 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 32, 'K': 42}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 387 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 31, 'K': 41}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 388 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 30, 'K': 40}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 389 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 29, 'K': 39}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 390 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 28, 'K': 38}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 391 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 27, 'K': 37}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 392 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 26, 'K': 36}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 393 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 25, 'K': 35}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 394 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 24, 'K': 34}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 395 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 23, 'K': 33}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 396 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 22, 'K': 32}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 397 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 21, 'K': 31}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 398 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 20, 'K': 30}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 399 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 19, 'K': 29}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 400 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 18, 'K': 28}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 401 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 17, 'K': 27}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 402 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 16, 'K': 26}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 403 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 15, 'K': 25}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 404 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 14, 'K': 24}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 405 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 13, 'K': 23}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 406 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 12, 'K': 22}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 407 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 11, 'K': 21}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 408 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 10, 'K': 20}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 409 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 9, 'K': 19}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 410 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 8, 'K': 18}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 411 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 7, 'K': 17}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 412 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 6, 'K': 16}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 413 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 5, 'K': 15}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 414 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 4, 'K': 14}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 415 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 3, 'K': 13}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 416 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 2, 'K': 12}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRH workers: 3 sec: 417 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J'}
+currently visiting {'A': 1, 'K': 11}
+**
+visitable: ['A', 'K']
+FMOXCDJUGIRHA workers: 4 sec: 418 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 10}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHA workers: 1 sec: 419 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 9, 'N': 73, 'Y': 84, 'Z': 85}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHA workers: 1 sec: 420 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 8, 'N': 72, 'Y': 83, 'Z': 84}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHA workers: 1 sec: 421 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 7, 'N': 71, 'Y': 82, 'Z': 83}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHA workers: 1 sec: 422 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 6, 'N': 70, 'Y': 81, 'Z': 82}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHA workers: 1 sec: 423 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 5, 'N': 69, 'Y': 80, 'Z': 81}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHA workers: 1 sec: 424 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 4, 'N': 68, 'Y': 79, 'Z': 80}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHA workers: 1 sec: 425 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 3, 'N': 67, 'Y': 78, 'Z': 79}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHA workers: 1 sec: 426 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 2, 'N': 66, 'Y': 77, 'Z': 78}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHA workers: 1 sec: 427 {'F', 'U', 'G', 'R', 'H', 'I', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'K': 1, 'N': 65, 'Y': 76, 'Z': 77}
+**
+visitable: ['K', 'N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 428 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 64, 'Y': 75, 'Z': 76}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 429 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 63, 'Y': 74, 'Z': 75}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 430 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 62, 'Y': 73, 'Z': 74}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 431 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 61, 'Y': 72, 'Z': 73}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 432 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 60, 'Y': 71, 'Z': 72}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 433 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 59, 'Y': 70, 'Z': 71}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 434 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 58, 'Y': 69, 'Z': 70}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 435 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 57, 'Y': 68, 'Z': 69}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 436 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 56, 'Y': 67, 'Z': 68}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 437 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 55, 'Y': 66, 'Z': 67}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 438 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 54, 'Y': 65, 'Z': 66}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 439 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 53, 'Y': 64, 'Z': 65}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 440 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 52, 'Y': 63, 'Z': 64}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 441 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 51, 'Y': 62, 'Z': 63}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 442 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 50, 'Y': 61, 'Z': 62}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 443 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 49, 'Y': 60, 'Z': 61}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 444 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 48, 'Y': 59, 'Z': 60}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 445 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 47, 'Y': 58, 'Z': 59}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 446 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 46, 'Y': 57, 'Z': 58}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 447 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 45, 'Y': 56, 'Z': 57}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 448 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 44, 'Y': 55, 'Z': 56}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 449 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 43, 'Y': 54, 'Z': 55}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 450 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 42, 'Y': 53, 'Z': 54}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 451 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 41, 'Y': 52, 'Z': 53}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 452 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 40, 'Y': 51, 'Z': 52}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 453 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 39, 'Y': 50, 'Z': 51}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 454 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 38, 'Y': 49, 'Z': 50}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 455 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 37, 'Y': 48, 'Z': 49}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 456 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 36, 'Y': 47, 'Z': 48}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 457 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 35, 'Y': 46, 'Z': 47}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 458 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 34, 'Y': 45, 'Z': 46}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 459 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 33, 'Y': 44, 'Z': 45}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 460 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 32, 'Y': 43, 'Z': 44}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 461 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 31, 'Y': 42, 'Z': 43}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 462 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 30, 'Y': 41, 'Z': 42}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 463 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 29, 'Y': 40, 'Z': 41}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 464 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 28, 'Y': 39, 'Z': 40}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 465 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 27, 'Y': 38, 'Z': 39}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 466 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 26, 'Y': 37, 'Z': 38}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 467 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 25, 'Y': 36, 'Z': 37}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 468 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 24, 'Y': 35, 'Z': 36}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 469 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 23, 'Y': 34, 'Z': 35}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 470 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 22, 'Y': 33, 'Z': 34}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 471 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 21, 'Y': 32, 'Z': 33}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 472 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 20, 'Y': 31, 'Z': 32}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 473 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 19, 'Y': 30, 'Z': 31}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 474 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 18, 'Y': 29, 'Z': 30}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 475 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 17, 'Y': 28, 'Z': 29}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 476 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 16, 'Y': 27, 'Z': 28}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 477 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 15, 'Y': 26, 'Z': 27}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 478 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 14, 'Y': 25, 'Z': 26}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 479 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 13, 'Y': 24, 'Z': 25}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 480 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 12, 'Y': 23, 'Z': 24}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 481 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 11, 'Y': 22, 'Z': 23}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 482 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 10, 'Y': 21, 'Z': 22}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 483 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 9, 'Y': 20, 'Z': 21}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 484 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 8, 'Y': 19, 'Z': 20}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 485 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 7, 'Y': 18, 'Z': 19}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 486 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 6, 'Y': 17, 'Z': 18}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 487 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 5, 'Y': 16, 'Z': 17}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 488 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 4, 'Y': 15, 'Z': 16}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 489 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 3, 'Y': 14, 'Z': 15}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 490 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 2, 'Y': 13, 'Z': 14}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAK workers: 2 sec: 491 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A'}
+currently visiting {'N': 1, 'Y': 12, 'Z': 13}
+**
+visitable: ['N', 'Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 492 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 11, 'Z': 12}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 493 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 10, 'Z': 11}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 494 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 9, 'Z': 10}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 495 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 8, 'Z': 9}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 496 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 7, 'Z': 8}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 497 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 6, 'Z': 7}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 498 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 5, 'Z': 6}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 499 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 4, 'Z': 5}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 500 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 3, 'Z': 4}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 501 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 2, 'Z': 3}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKN workers: 3 sec: 502 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'D', 'J', 'A', 'N'}
+currently visiting {'Y': 1, 'Z': 2}
+**
+visitable: ['Y', 'Z']
+FMOXCDJUGIRHAKNY workers: 4 sec: 503 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'J', 'A', 'N'}
+currently visiting {'Z': 1}
+**
+visitable: ['Z']
+FMOXCDJUGIRHAKNYZ workers: 5 sec: 503 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 504 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 79}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 505 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 78}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 506 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 77}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 507 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 76}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 508 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 75}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 509 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 74}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 510 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 73}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 511 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 72}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 512 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 71}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 513 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 70}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 514 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 69}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 515 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 68}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 516 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 67}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 517 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 66}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 518 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 65}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 519 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 64}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 520 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 63}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 521 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 62}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 522 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 61}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 523 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 60}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 524 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 59}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 525 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 58}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 526 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 57}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 527 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 56}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 528 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 55}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 529 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 54}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 530 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 53}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 531 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 52}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 532 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 51}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 533 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 50}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 534 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 49}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 535 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 48}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 536 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 47}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 537 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 46}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 538 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 45}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 539 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 44}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 540 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 43}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 541 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 42}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 542 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 41}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 543 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 40}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 544 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 39}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 545 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 38}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 546 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 37}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 547 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 36}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 548 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 35}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 549 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 34}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 550 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 33}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 551 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 32}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 552 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 31}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 553 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 30}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 554 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 29}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 555 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 28}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 556 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 27}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 557 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 26}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 558 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 25}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 559 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 24}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 560 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 23}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 561 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 22}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 562 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 21}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 563 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 20}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 564 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 19}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 565 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 18}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 566 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 17}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 567 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 16}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 568 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 15}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 569 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 14}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 570 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 13}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 571 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 12}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 572 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 11}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 573 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 10}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 574 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 9}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 575 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 8}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 576 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 7}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 577 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 6}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 578 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 5}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 579 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 4}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 580 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 3}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 581 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 2}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZ workers: 4 sec: 582 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'A', 'N'}
+currently visiting {'T': 1}
+**
+visitable: ['T']
+FMOXCDJUGIRHAKNYZT workers: 5 sec: 582 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 583 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 64}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 584 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 63}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 585 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 62}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 586 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 61}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 587 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 60}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 588 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 59}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 589 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 58}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 590 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 57}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 591 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 56}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 592 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 55}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 593 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 54}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 594 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 53}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 595 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 52}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 596 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 51}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 597 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 50}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 598 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 49}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 599 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 48}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 600 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 47}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 601 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 46}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 602 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 45}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 603 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 44}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 604 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 43}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 605 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 42}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 606 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 41}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 607 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 40}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 608 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 39}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 609 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 38}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 610 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 37}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 611 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 36}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 612 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 35}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 613 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 34}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 614 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 33}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 615 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 32}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 616 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 31}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 617 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 30}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 618 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 29}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 619 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 28}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 620 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 27}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 621 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 26}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 622 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 25}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 623 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 24}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 624 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 23}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 625 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 22}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 626 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 21}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 627 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 20}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 628 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 19}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 629 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 18}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 630 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 17}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 631 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 16}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 632 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 15}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 633 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 14}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 634 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 13}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 635 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 12}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 636 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 11}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 637 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 10}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 638 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 9}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 639 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 8}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 640 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 7}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 641 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 6}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 642 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 5}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 643 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 4}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 644 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 3}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 645 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 2}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZT workers: 4 sec: 646 {'F', 'U', 'G', 'R', 'H', 'I', 'K', 'M', 'C', 'X', 'O', 'Y', 'D', 'Z', 'J', 'T', 'A', 'N'}
+currently visiting {'E': 1}
+**
+visitable: ['E']
+FMOXCDJUGIRHAKNYZTE workers: 5 sec: 646 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 647 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 78}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 648 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 77}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 649 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 76}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 650 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 75}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 651 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 74}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 652 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 73}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 653 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 72}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 654 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 71}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 655 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 70}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 656 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 69}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 657 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 68}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 658 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 67}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 659 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 66}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 660 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 65}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 661 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 64}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 662 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 63}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 663 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 62}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 664 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 61}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 665 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 60}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 666 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 59}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 667 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 58}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 668 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 57}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 669 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 56}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 670 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 55}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 671 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 54}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 672 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 53}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 673 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 52}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 674 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 51}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 675 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 50}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 676 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 49}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 677 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 48}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 678 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 47}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 679 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 46}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 680 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 45}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 681 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 44}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 682 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 43}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 683 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 42}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 684 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 41}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 685 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 40}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 686 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 39}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 687 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 38}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 688 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 37}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 689 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 36}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 690 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 35}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 691 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 34}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 692 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 33}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 693 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 32}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 694 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 31}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 695 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 30}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 696 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 29}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 697 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 28}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 698 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 27}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 699 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 26}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 700 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 25}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 701 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 24}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 702 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 23}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 703 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 22}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 704 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 21}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 705 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 20}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 706 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 19}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 707 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 18}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 708 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 17}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 709 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 16}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 710 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 15}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 711 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 14}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 712 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 13}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 713 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 12}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 714 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 11}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 715 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 10}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 716 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 9}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 717 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 8}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 718 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 7}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 719 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 6}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 720 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 5}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 721 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 4}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 722 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 3}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 723 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 2}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTE workers: 4 sec: 724 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'M', 'X', 'O', 'U'}
+currently visiting {'S': 1}
+**
+visitable: ['S']
+FMOXCDJUGIRHAKNYZTES workers: 5 sec: 724 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 725 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 82}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 726 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 81}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 727 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 80}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 728 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 79}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 729 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 78}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 730 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 77}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 731 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 76}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 732 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 75}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 733 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 74}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 734 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 73}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 735 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 72}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 736 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 71}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 737 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 70}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 738 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 69}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 739 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 68}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 740 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 67}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 741 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 66}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 742 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 65}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 743 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 64}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 744 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 63}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 745 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 62}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 746 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 61}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 747 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 60}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 748 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 59}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 749 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 58}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 750 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 57}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 751 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 56}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 752 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 55}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 753 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 54}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 754 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 53}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 755 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 52}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 756 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 51}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 757 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 50}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 758 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 49}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 759 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 48}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 760 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 47}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 761 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 46}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 762 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 45}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 763 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 44}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 764 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 43}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 765 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 42}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 766 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 41}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 767 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 40}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 768 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 39}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 769 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 38}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 770 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 37}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 771 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 36}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 772 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 35}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 773 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 34}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 774 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 33}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 775 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 32}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 776 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 31}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 777 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 30}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 778 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 29}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 779 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 28}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 780 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 27}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 781 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 26}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 782 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 25}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 783 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 24}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 784 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 23}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 785 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 22}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 786 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 21}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 787 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 20}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 788 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 19}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 789 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 18}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 790 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 17}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 791 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 16}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 792 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 15}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 793 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 14}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 794 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 13}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 795 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 12}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 796 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 11}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 797 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 10}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 798 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 9}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 799 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 8}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 800 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 7}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 801 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 6}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 802 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 5}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 803 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 4}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 804 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 3}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 805 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 2}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTES workers: 4 sec: 806 {'G', 'K', 'C', 'E', 'T', 'A', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'W': 1}
+**
+visitable: ['W']
+FMOXCDJUGIRHAKNYZTESW workers: 5 sec: 806 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 807 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 71}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 808 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 70}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 809 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 69}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 810 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 68}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 811 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 67}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 812 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 66}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 813 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 65}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 814 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 64}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 815 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 63}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 816 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 62}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 817 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 61}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 818 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 60}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 819 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 59}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 820 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 58}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 821 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 57}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 822 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 56}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 823 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 55}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 824 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 54}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 825 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 53}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 826 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 52}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 827 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 51}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 828 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 50}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 829 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 49}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 830 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 48}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 831 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 47}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 832 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 46}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 833 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 45}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 834 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 44}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 835 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 43}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 836 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 42}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 837 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 41}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 838 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 40}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 839 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 39}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 840 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 38}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 841 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 37}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 842 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 36}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 843 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 35}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 844 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 34}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 845 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 33}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 846 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 32}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 847 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 31}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 848 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 30}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 849 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 29}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 850 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 28}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 851 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 27}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 852 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 26}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 853 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 25}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 854 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 24}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 855 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 23}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 856 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 22}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 857 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 21}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 858 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 20}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 859 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 19}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 860 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 18}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 861 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 17}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 862 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 16}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 863 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 15}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 864 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 14}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 865 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 13}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 866 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 12}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 867 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 11}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 868 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 10}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 869 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 9}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 870 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 8}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 871 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 7}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 872 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 6}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 873 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 5}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 874 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 4}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 875 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 3}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 876 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 2}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESW workers: 4 sec: 877 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'L': 1}
+**
+visitable: ['L']
+FMOXCDJUGIRHAKNYZTESWL workers: 5 sec: 877 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 878 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 75}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 879 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 74}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 880 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 73}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 881 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 72}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 882 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 71}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 883 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 70}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 884 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 69}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 885 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 68}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 886 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 67}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 887 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 66}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 888 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 65}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 889 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 64}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 890 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 63}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 891 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 62}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 892 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 61}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 893 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 60}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 894 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 59}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 895 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 58}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 896 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 57}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 897 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 56}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 898 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 55}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 899 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 54}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 900 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 53}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 901 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 52}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 902 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 51}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 903 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 50}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 904 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 49}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 905 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 48}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 906 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 47}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 907 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 46}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 908 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 45}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 909 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 44}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 910 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 43}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 911 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 42}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 912 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 41}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 913 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 40}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 914 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 39}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 915 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 38}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 916 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 37}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 917 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 36}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 918 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 35}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 919 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 34}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 920 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 33}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 921 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 32}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 922 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 31}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 923 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 30}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 924 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 29}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 925 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 28}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 926 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 27}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 927 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 26}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 928 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 25}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 929 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 24}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 930 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 23}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 931 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 22}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 932 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 21}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 933 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 20}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 934 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 19}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 935 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 18}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 936 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 17}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 937 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 16}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 938 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 15}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 939 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 14}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 940 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 13}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 941 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 12}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 942 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 11}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 943 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 10}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 944 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 9}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 945 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 8}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 946 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 7}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 947 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 6}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 948 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 5}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 949 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 4}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 950 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 3}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 951 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 2}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWL workers: 4 sec: 952 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U'}
+currently visiting {'P': 1}
+**
+visitable: ['P']
+FMOXCDJUGIRHAKNYZTESWLP workers: 5 sec: 952 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 953 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 61, 'Q': 76}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 954 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 60, 'Q': 75}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 955 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 59, 'Q': 74}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 956 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 58, 'Q': 73}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 957 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 57, 'Q': 72}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 958 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 56, 'Q': 71}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 959 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 55, 'Q': 70}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 960 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 54, 'Q': 69}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 961 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 53, 'Q': 68}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 962 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 52, 'Q': 67}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 963 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 51, 'Q': 66}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 964 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 50, 'Q': 65}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 965 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 49, 'Q': 64}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 966 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 48, 'Q': 63}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 967 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 47, 'Q': 62}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 968 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 46, 'Q': 61}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 969 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 45, 'Q': 60}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 970 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 44, 'Q': 59}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 971 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 43, 'Q': 58}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 972 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 42, 'Q': 57}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 973 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 41, 'Q': 56}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 974 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 40, 'Q': 55}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 975 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 39, 'Q': 54}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 976 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 38, 'Q': 53}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 977 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 37, 'Q': 52}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 978 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 36, 'Q': 51}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 979 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 35, 'Q': 50}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 980 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 34, 'Q': 49}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 981 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 33, 'Q': 48}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 982 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 32, 'Q': 47}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 983 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 31, 'Q': 46}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 984 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 30, 'Q': 45}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 985 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 29, 'Q': 44}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 986 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 28, 'Q': 43}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 987 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 27, 'Q': 42}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 988 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 26, 'Q': 41}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 989 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 25, 'Q': 40}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 990 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 24, 'Q': 39}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 991 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 23, 'Q': 38}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 992 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 22, 'Q': 37}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 993 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 21, 'Q': 36}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 994 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 20, 'Q': 35}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 995 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 19, 'Q': 34}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 996 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 18, 'Q': 33}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 997 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 17, 'Q': 32}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 998 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 16, 'Q': 31}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 999 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 15, 'Q': 30}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1000 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 14, 'Q': 29}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1001 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 13, 'Q': 28}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1002 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 12, 'Q': 27}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1003 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 11, 'Q': 26}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1004 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 10, 'Q': 25}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1005 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 9, 'Q': 24}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1006 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 8, 'Q': 23}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1007 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 7, 'Q': 22}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1008 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 6, 'Q': 21}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1009 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 5, 'Q': 20}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1010 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 4, 'Q': 19}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1011 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 3, 'Q': 18}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1012 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 2, 'Q': 17}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLP workers: 3 sec: 1013 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'B': 1, 'Q': 16}
+**
+visitable: ['B', 'Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1014 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 15}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1015 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 14}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1016 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 13}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1017 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 12}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1018 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 11}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1019 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 10}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1020 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 9}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1021 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 8}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1022 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 7}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1023 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 6}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1024 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 5}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1025 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 4}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1026 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 3}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1027 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 2}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPB workers: 4 sec: 1028 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'Q': 1}
+**
+visitable: ['Q']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 5 sec: 1028 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1029 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 81}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1030 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 80}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1031 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 79}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1032 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 78}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1033 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 77}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1034 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 76}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1035 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 75}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1036 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 74}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1037 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 73}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1038 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 72}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1039 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 71}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1040 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 70}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1041 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 69}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1042 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 68}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1043 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 67}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1044 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 66}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1045 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 65}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1046 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 64}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1047 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 63}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1048 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 62}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1049 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 61}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1050 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 60}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1051 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 59}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1052 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 58}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1053 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 57}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1054 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 56}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1055 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 55}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1056 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 54}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1057 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 53}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1058 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 52}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1059 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 51}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1060 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 50}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1061 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 49}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1062 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 48}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1063 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 47}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1064 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 46}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1065 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 45}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1066 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 44}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1067 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 43}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1068 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 42}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1069 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 41}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1070 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 40}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1071 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 39}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1072 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 38}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1073 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 37}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1074 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 36}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1075 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 35}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1076 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 34}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1077 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 33}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1078 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 32}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1079 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 31}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1080 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 30}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1081 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 29}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1082 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 28}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1083 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 27}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1084 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 26}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1085 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 25}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1086 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 24}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1087 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 23}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1088 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 22}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1089 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 21}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1090 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 20}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1091 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 19}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1092 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 18}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1093 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 17}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1094 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 16}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1095 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 15}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1096 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 14}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1097 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 13}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1098 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 12}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1099 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 11}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1100 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 10}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1101 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 9}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1102 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 8}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1103 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 7}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1104 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 6}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1105 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 5}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1106 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 4}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1107 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 3}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1108 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 2}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQ workers: 4 sec: 1109 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'P'}
+currently visiting {'V': 1}
+**
+visitable: ['V']
+FMOXCDJUGIRHAKNYZTESWLPBQV workers: 5 sec: 1109 {'G', 'K', 'C', 'E', 'T', 'A', 'W', 'Q', 'J', 'B', 'L', 'Y', 'F', 'R', 'H', 'I', 'D', 'Z', 'N', 'S', 'M', 'X', 'O', 'U', 'V', 'P'}
+currently visiting {}
+**
+('FMOXCDJUGIRHAKNYZTESWLPBQV', 1109)
